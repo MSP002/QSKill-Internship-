@@ -15,3 +15,8 @@ This workspace contains three projects demonstrating various Python programming 
 
 ## Project 3: Matrix Operations Tool
 - `matrix_tool.py`: Interactive tool for performing matrix operations using NumPy.
+
+## Notes
+- Project 3 is interactive and runs in the terminal.
+- Visualizations from Project 1 are saved as PNG files.
+- Model evaluation metrics are printed for Project 2.
